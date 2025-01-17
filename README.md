@@ -1,4 +1,4 @@
-!Real-Time Weather Data Collection - Day 1 AllStarsDevOps Challenge](Open_Weather_S3/architecture.webp)
+![Real-Time Weather Data Collection - Day 1 AllStarsDevOps Challenge](Open_Weather_S3/architecture.webp)
 
 
 # Fetch Weather Data and Store in S3 with Automation
