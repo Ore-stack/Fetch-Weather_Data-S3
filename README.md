@@ -1,3 +1,6 @@
+!Real-Time Weather Data Collection - Day 1 AllStarsDevOps Challenge](Open_Weather_S3/architecture.webp)
+
+
 # Fetch Weather Data and Store in S3 with Automation
 
 This guide provides instructions on how to fetch weather data using the OpenWeatherMap API, store the data in an Amazon S3 bucket, and automate the process using a cron job.
