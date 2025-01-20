@@ -1,0 +1,20 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "glue:CreateDatabase",
+                "glue:CreateTable",
+                "glue:GetTable",
+                "glue:GetDatabase",
+                "glue:GetTableVersion",
+                "glue:StartCrawler",
+                "athena:StartQueryExecution",
+                "athena:GetQueryExecution",
+                "athena:GetQueryResults"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
