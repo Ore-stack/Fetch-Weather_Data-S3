@@ -38,7 +38,7 @@ Before running the project, ensure the following:
 
 1. **Clone the Repository**:
     ```bash
-    git clone [<repository-url>](https://github.com/Ore-stack/30-days-DevOps-Challenge)
+    git clone https://github.com/Ore-stack/30-days-DevOps-Challenge
     cd Day 03
     ```
 
